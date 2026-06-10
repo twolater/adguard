@@ -1,6 +1,5 @@
 ! Title: AdGuard Home Custom Adblock Rules
 ! Description: Converted from Clash/Surge domain list.
-! Total count: 650+ domains
 
 ! ==================== 广告联盟-国内 ====================
 ||09mk.cn^
@@ -1688,3 +1687,53 @@
 ||tralog.ganji.com^
 ||up.qingdaonews.com^
 ||vaserviece.10jqka.com.cn^
+
+! ==================== Media.net & Fastclick ====================
+||static.media.net^
+||media.net^
+||adservetx.media.net^
+||fastclick.com^
+||fastclick.net^
+||media.fastclick.net^
+||cdn.fastclick.net^
+
+! ==================== Google Analytics ====================
+||google-analytics.com^
+||ssl.google-analytics.com^
+
+! ==================== Amazon & Bugsnag ====================
+||affiliationjs.s3.amazonaws.com^
+||advertising-api-eu.amazon.com^
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
+
+! ==================== Social Media Ads (FB/Twitter/Pinterest/Reddit/TikTok) ====================
+||ads.facebook.com^
+||an.facebook.com^
+||advertising.twitter.com^
+||ads.pinterest.com^
+||ads-dev.pinterest.com^
+||analytics.pinterest.com^
+||widgets.pinterest.com^
+||ads.reddit.com^
+||ads.youtube.com^
+||ads.tiktok.com^
+||ads-sg.tiktok.com^
+
+! ==================== Huawei Hicloud (Metrics & Logs) ====================
+||metrics.data.hicloud.com^
+||metrics1.data.hicloud.com^
+||metrics2.data.hicloud.com^
+||metrics3.data.hicloud.com^
+||metrics4.data.hicloud.com^
+||metrics5.data.hicloud.com^
+||logservice.hicloud.com^
+||logservice1.hicloud.com^
+||hicloud.com^
+||metrics-dra.dt.hicloud.com^
+
+! ==================== Sentry Error Tracking ====================
+||browser.sentry-cdn.com^
+||app.getsentry.com^
