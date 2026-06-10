@@ -1737,3 +1737,61 @@
 ! ==================== Sentry Error Tracking ====================
 ||browser.sentry-cdn.com^
 ||app.getsentry.com^
+
+! ==================== General Ad & Tracking Networks ====================
+||live.chartboost.com^
+||init.supersonicads.com^
+||inmobi.com^
+||is.com^
+||adsrvr.org^
+||statdynamic.com^
+||juicyads.com^
+
+! ==================== Twitter / X Ads & Analytics ====================
+||ads-api.twitter.com^
+||ads-api.x.com^
+||analytics.twitter.com^
+||analytics.x.com^
+||ads.x.com^
+
+! ==================== Meta (Facebook & Instagram) ====================
+||graph.instagram.com^
+||i.instagram.com^
+||pixel.facebook.com^
+||an.facebook.com^
+||connect.facebook.net^
+||graph.facebook.com^
+||tr.facebook.com^
+
+! ==================== Apple Ad & Tracking Services ====================
+||advertising.apple.com^
+||tr.iadsdk.apple.com^
+||books-analytics-events.apple.com^
+||api-adservices.apple.com^
+||notes-analytics-events.apple.com^
+
+! ==================== Xiaomi & MIUI Tracking ====================
+||sdkconfig.ad.xiaomi.com^
+||tracking.rus.miui.com^
+||tracking.miui.com^
+
+! ==================== PartnerStack ====================
+||partnerstack.com^
+||api.partnerstack.com^
+
+! ==================== JW Player Tracking ====================
+||g.jwpsrv.com^
+||ssl.p.jwpcdn.com^
+
+! ==================== Google & DoubleClick ====================
+||imasdk.googleapis.com^
+||pubads.g.doubleclick.net^
+
+! ==================== Microsoft & Bing Ads ====================
+||bat.bing.com^
+||bingads.microsoft.com^
+||ads.microsoft.com^
+||c.bing.com^
+
+! ==================== Amazon Tracking ====================
+||fls-na.amazon.com^
